@@ -1,3 +1,4 @@
+git add: zum hinzufügen einer datei in den nächsten commit
 git config: zum setzen von username und email im main config file
 git init: zum initialisieren eines git repository für ein neues oder
 bereits existierendes projekt.
