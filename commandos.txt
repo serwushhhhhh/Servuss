@@ -1,0 +1,23 @@
+git config: zum setzen von username und email im main config file
+git init: zum initialisieren eines git repository für ein neues oder
+bereits existierendes projekt.
+git clone: zum kopieren eines git repository von einer remote source, kann auch
+die remote source zur originalen setzen um so nochmal zu pullen
+git rm: löscht dateien vom momentan arbeitenden verzeichnis und vom index
+git commit: commitet deine änderungen und setzt ein neues commit objekt 
+git remote: zum checken der momentanten remote/source oder zum erstellen einer
+neuen remote
+git push: Pushed deine änderungen zur remote, zb nach erstellen einer 
+neuen remote und dem commiten der änderungen. 
+git pull: zum pullen deiner änderungen von der remote.
+git status: zum checken des momentanen status aller dateien die du in dem 
+arbeitenden verzeichis geändert hast, also alle änderungen seit dem letzten 
+commit.
+git diff: zeigt differnzen, also unterschiede zwischen den bestehenden commit,
+dem momentanen commit und dem momentanen verzeichnis.
+git reset: wenn man änderungen commites die nicht vollständig sind, kannst du 
+mit git reset den index zum letzten commit ändern.
+git log: zeigt alle commit logs
+git branch: damit lassen sich branches auflisten, erstellen oder löschen
+git checkout: wechselt zwischen branches 
+git merge: verbindet zwei oder mehr development histories miteinander
